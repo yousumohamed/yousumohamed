@@ -59,11 +59,9 @@ I have professional experience across the **Frontend**, **Backend**, and **Datab
 
 ## 🔥 My GitHub Stats
 
-<p align="center">
-  <a href="YOUR_GITHUB_PROFILE_LINK">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Yusuf M.abdi's GitHub Stats"/>
+
   </a>
-  <a href="YOUR_GITHUB_PROFILE_LINK">
+  <a href="https://github.com/yousumohamed/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" alt="Yusuf M.abdi's GitHub Streak"/>
   </a>
 </p>
@@ -77,11 +75,11 @@ I have professional experience across the **Frontend**, **Backend**, and **Datab
 </p>
 
 </div> -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousumohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yousumohamed" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousumohamed" alt="yousumohamed" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousumohamed" alt="yousumohamed" /></a> </p> -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
