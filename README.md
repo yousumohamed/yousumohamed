@@ -61,7 +61,7 @@ I have professional experience across the **Frontend**, **Backend**, and **Datab
 
 
 <p align="center">
-  <img src="reame.png" width="80%" alt="GitHub Contributions" /> 
+  <img src="readme profile.png" width="80%" alt="GitHub Contributions" /> 
 </p>
 
 ---
