@@ -60,10 +60,8 @@ I have professional experience across the **Frontend**, **Backend**, and **Datab
 ## 🔥 My GitHub Stats
 
 
-  </a>
-  <a href="https://github.com/yousumohamed/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" alt="Yusuf M.abdi's GitHub Streak"/>
-  </a>
+<p align="center">
+  <img src="github-contributions_1.5x_postspark_2025-12-20_10-14-03.png" width="100%" alt="GitHub Contributions" /> 
 </p>
 
 ---
