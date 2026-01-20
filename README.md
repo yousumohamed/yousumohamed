@@ -4,7 +4,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! I'm Yusuf M.abdi!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EFF2E&center=true&vCenter=true&width=500&lines=Yusuf+M.abdi+👋;I'm+a+Software+Engineer👨‍💻;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EFF2E&center=true&vCenter=true&width=500&lines=Yusuf+M.abdi+👋;I'm+a+Software+Dev👨‍💻;" alt="Typing Animation" />
 
 <p>
   <a href="linkedin.com/in/yousuf-mohamed-929689305" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
