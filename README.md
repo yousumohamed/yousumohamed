@@ -1,15 +1,13 @@
-
-<p align="center">
-  <img src="dark_mode.svg" width="90%" alt="GitHub Contributions" /> 
-</p>
-
-
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813702-ad99c9d1-c0cd-4d83-b27b-5868e4785437.gif" width="100%" alt="Animated Header Banner" />
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! I'm Yusuf M.abdi!
+
+<p align="center">
+  <img src="dark_mode.svg" width="90%" alt="GitHub Contributions" /> 
+</p>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2EFF2E&center=true&vCenter=true&width=500&lines=Yusuf+M.abdi+👋;Software+Dev👨‍💻;" alt="Typing Animation" />
 
