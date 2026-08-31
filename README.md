@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="dark_mode.svg" width="80%" alt="GitHub Contributions" /> 
+</p>
+
+
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813702-ad99c9d1-c0cd-4d83-b27b-5868e4785437.gif" width="100%" alt="Animated Header Banner" />
