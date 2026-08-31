@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="dark_mode.svg" width="80%" alt="GitHub Contributions" /> 
+  <img src="dark_mode.svg" width="100%" alt="GitHub Contributions" /> 
 </p>
 
 
