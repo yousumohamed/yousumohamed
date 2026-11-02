@@ -67,11 +67,11 @@ I have professional experience across the **Frontend**, **Backend**, and **Datab
 ## 🔥 My GitHub Stats
 
 
-<p align="center">
+<!--<p align="center">
   <img src="readme profile.png" width="80%" alt="GitHub Contributions" /> 
 </p>
 
----
+--->
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr20sv9/giphy.gif" width="60" /> 
